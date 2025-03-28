@@ -1,0 +1,28 @@
+# Vim swap files
+*.swp
+*.swo
+*.swn
+*.backup
+*~
+
+# macOS system files (if you ever work on macOS with this repo)
+.DS_Store
+
+# Windows system files (if you ever work on Windows with this repo)
+Thumbs.db
+
+# LazyVim cache files (if any. Adjust as needed)
+.lazyvim/cache/
+
+# node_modules if you expand the project to include node.
+node_modules/
+
+# python virtual environments if you expand the project to include python.
+venv/
+.venv/
+*/venv/
+*/.venv/
+
+# Linux specific temp files or directories (if any, add as needed)
+*.log # Example for log files
+*.bak # Example for backup files
