@@ -1,4 +1,5 @@
-### Running this bash script creates a tmux session in the current working directory with 5 windows as a starting point for fullstack projects.  
+### Running this bash script creates a tmux session in the current working directory with 5 named windows as a starting point for fullstack projects.  
+TMUX WINDOWS:  
 - \[0\] backend server  
 - \[1\] frontend server  
 - \[2\] backend code  
