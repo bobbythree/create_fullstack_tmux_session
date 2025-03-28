@@ -6,13 +6,13 @@
 - \[4\] bash  
 
 ### usage  
-- clone this repo to your local machine  
+- Clone this repo to your local machine  
 - ON LINUX: move or copy bash script file to /usr/local/bin folder (or wherever binary executables are stored in your file system)  
-- change permissions for the file with: ```chmod u+x fullstack_tmux_session.sh```  
-- change ownership of file with ```chown [your user name] fullstack_tmux_session.sh```  
+- Change permissions for the file with: ```chmod u+x fullstack_tmux_session.sh```  
+- Change ownership of file with ```chown [your user name] fullstack_tmux_session.sh```  
 - RECOMMENDED: rename file without the .sh extension  
-- create a project folder for fullstack development and cd into it.  
-- type ```fullstack_tmux_session``` (or whatever you named the bach script) into your project's root directory.  
+- Navigate to the directory you want your tmux session in  
+- Type ```fullstack_tmux_session``` (or whatever you renamed the bash script file)  
   
 
 tmux will attach to the session and you're all set! 
